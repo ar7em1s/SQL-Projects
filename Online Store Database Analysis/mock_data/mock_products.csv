@@ -1,0 +1,201 @@
+product_id,name,description,price,category_id,stock_qty
+1,Compact Sleeping Bag,"Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",22.84,1,187
+2,Deluxe Puzzle Set,"Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",433.57,5,86
+3,Deluxe T-Shirt,"Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",126.76,1,65
+4,Basic Sci-Fi Epic,Praesent id massa id nisl venenatis lacinia.,190.03,1,13
+5,Deluxe Wall Art,In hac habitasse platea dictumst.,348.98,3,21
+6,Eco Remote Car,"Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla.",114.05,2,24
+7,Deluxe Puzzle Set,"Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",411.29,8,147
+8,Eco Smartphone,Aliquam quis turpis eget elit sodales scelerisque.,310.13,3,21
+9,Basic Tennis Racket,Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis.,179.79,5,113
+10,Compact Sneakers,Quisque id justo sit amet sapien dignissim vestibulum.,145.78,2,199
+11,Premium Wallet,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,442.94,1,47
+12,Premium Yoga Mat,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis.",262.37,4,12
+13,Eco Hiking Boots,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",428.57,4,108
+14,Basic Camping Tent,"Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",155.68,1,191
+15,Basic Watch,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh.,429.44,3,16
+16,Compact Hair Dryer,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",310.28,9,174
+17,Basic Jacket,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",265.62,7,3
+18,Basic Wallet,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",466.19,10,34
+19,Compact Scarf,Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.,323.31,2,21
+20,Eco Throw Pillow,"Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",95.35,8,5
+21,Compact Belt,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.",429.02,4,86
+22,Premium Tablet,In sagittis dui vel nisl. Duis ac nibh.,406.22,7,85
+23,Deluxe Bluetooth Speaker,"Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",339.86,3,70
+24,Compact Coffee Maker,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",55.83,7,53
+25,Eco Sweater,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",49.17,10,66
+26,Eco Scarf,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",202.69,2,44
+27,Basic Mystery Novel,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum.,398.65,7,125
+28,Basic Mystery Novel,"Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",24.45,5,71
+29,Premium Hiking Boots,"Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",297.75,6,62
+30,Deluxe Microwave,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",466.08,9,178
+31,Premium Mystery Novel,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",264.4,4,3
+32,Basic Wallet,Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,252.14,5,115
+33,Deluxe Watch,"Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",193.67,9,179
+34,Compact Tennis Racket,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis.",141,6,35
+35,Eco Jeans,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",496.04,2,7
+36,Deluxe Flashlight,Aliquam quis turpis eget elit sodales scelerisque.,10.55,9,60
+37,Compact Hair Dryer,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",456.85,4,34
+38,Deluxe Tablet,Sed ante. Vivamus tortor. Duis mattis egestas metus.,350.04,7,171
+39,Basic Coffee Maker,Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,376.86,5,55
+40,Basic Sunglasses,Integer ac leo. Pellentesque ultrices mattis odio.,476.87,6,76
+41,Basic Remote Car,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",110.58,10,182
+42,Premium Sneakers,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",461.33,9,134
+43,Compact Dumbbell Set,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,427.46,10,92
+44,Premium Yoga Mat,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,343.11,4,131
+45,Premium Dollhouse,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",428.63,6,178
+46,Eco Tablet,Etiam faucibus cursus urna. Ut tellus.,486.41,10,86
+47,Eco Basketball,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",414.7,2,151
+48,Eco Wall Art,Ut tellus.,49.05,3,87
+49,Eco Resistance Band,Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,475.21,1,15
+50,Compact Bluetooth Speaker,In congue. Etiam justo. Etiam pretium iaculis justo.,328.53,3,35
+51,Eco Electric Toothbrush,Aliquam non mauris. Morbi non lectus.,153.83,5,14
+52,Deluxe Laptop,Nulla nisl. Nunc nisl.,281.43,9,43
+53,Premium Sunglasses,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",286.46,5,20
+54,Basic Rug,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",277.53,6,17
+55,Eco Bluetooth Speaker,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,271.48,7,175
+56,Eco Face Cream,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",242.71,9,34
+57,Premium Wireless Mouse,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,438.44,10,94
+58,Compact Coffee Maker,Suspendisse ornare consequat lectus.,370.87,5,84
+59,Compact Sleeping Bag,Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,303.89,10,122
+60,Eco Rug,Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,174.95,1,92
+61,Deluxe Flashlight,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis.",151.04,2,194
+62,Deluxe Yoga Mat,"Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",421.55,9,100
+63,Deluxe Self-Help Guide,Etiam justo. Etiam pretium iaculis justo.,439.65,5,171
+64,Compact Sunglasses,"Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",253.11,10,73
+65,Deluxe Throw Pillow,"Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",191.5,2,51
+66,Eco Mystery Novel,Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.,489.04,2,35
+67,Premium Sci-Fi Epic,"Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla.",404.85,5,122
+68,Eco Portable Stove,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",31.39,9,91
+69,Compact Dumbbell Set,Vivamus tortor. Duis mattis egestas metus.,239.62,8,34
+70,Compact Shampoo,Nulla mollis molestie lorem.,143.08,10,44
+71,Premium Coffee Maker,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",150.58,4,28
+72,Premium Belt,Phasellus sit amet erat. Nulla tempus.,263.39,10,157
+73,Eco Dollhouse,"Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",303.66,6,57
+74,Eco Self-Help Guide,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",271.42,8,165
+75,Eco Scarf,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo.",125.29,4,151
+76,Basic Basketball,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis.",488.81,7,193
+77,Deluxe Throw Pillow,Integer ac neque. Duis bibendum.,438.85,6,37
+78,Compact Wireless Mouse,"Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",107.48,3,64
+79,Premium Puzzle Set,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",66.04,2,184
+80,Basic Wall Art,Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,481.51,5,160
+81,Basic Jacket,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,427.57,7,60
+82,Compact Toaster,Nulla suscipit ligula in lacus.,131.65,3,124
+83,Eco Sci-Fi Epic,Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.,359.99,6,128
+84,Eco Dumbbell Set,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",150.11,10,50
+85,Eco Sleeping Bag,Aenean sit amet justo.,305.07,1,80
+86,Compact Vase,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,289.14,4,200
+87,Compact Coffee Maker,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",70.98,3,166
+88,Premium Flashlight,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.",16.68,9,34
+89,Deluxe Sneakers,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",264.88,3,83
+90,Deluxe Scarf,"Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",449.99,10,10
+91,Premium Nail Kit,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum.,321.3,6,73
+92,Premium Air Fryer,"Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",356.96,1,195
+93,Compact Electric Toothbrush,"Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",256.4,4,68
+94,Deluxe Building Blocks,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",161,5,20
+95,Eco Mystery Novel,"Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",89.29,8,90
+96,Basic Flashlight,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",204.04,4,136
+97,Deluxe Laptop,Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,296.63,2,118
+98,Premium Bluetooth Speaker,Aliquam erat volutpat. In congue.,448.07,6,23
+99,Premium Candle Holder,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,276.11,9,32
+100,Deluxe Belt,Donec semper sapien a libero. Nam dui.,384.32,3,120
+101,Eco Building Blocks,"Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",216.44,5,152
+102,Basic T-Shirt,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.",433.93,6,6
+103,Eco Mystery Novel,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,187.17,6,165
+104,Premium Tablet,Suspendisse potenti.,78.1,2,25
+105,Eco Hair Dryer,Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,176.93,6,163
+106,Premium Face Cream,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",187.51,5,61
+107,Compact Sci-Fi Epic,Cras in purus eu magna vulputate luctus.,382.76,2,102
+108,Premium Coffee Maker,Vivamus vestibulum sagittis sapien.,44.97,1,16
+109,Eco Remote Car,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,132.01,8,146
+110,Eco Electric Toothbrush,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti.",51.16,1,79
+111,Premium Shampoo,Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,414.48,10,37
+112,Eco Rug,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",401.02,3,97
+113,Basic Hiking Boots,"Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",209.77,9,65
+114,Premium Sci-Fi Epic,Sed sagittis.,128.35,7,154
+115,Premium Mystery Novel,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante.,275.94,9,158
+116,Deluxe Sleeping Bag,Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl.,234.57,3,197
+117,Basic Self-Help Guide,Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,176.01,2,88
+118,Compact Wireless Mouse,Proin eu mi. Nulla ac enim.,86.34,1,158
+119,Compact Shampoo,In quis justo.,36.69,2,113
+120,Premium Self-Help Guide,Mauris lacinia sapien quis libero.,370.22,4,71
+121,Deluxe Throw Pillow,Nam tristique tortor eu pede.,197.96,4,55
+122,Basic Portable Stove,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue.",458.04,1,135
+123,Compact Smartphone,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,372.51,3,140
+124,Eco Candle Holder,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,292.92,7,10
+125,Basic Throw Pillow,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",197.49,9,68
+126,Deluxe Jacket,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,167.66,6,29
+127,Basic Building Blocks,Curabitur in libero ut massa volutpat convallis.,450.25,8,173
+128,Deluxe Tablet,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,194.5,7,188
+129,Compact Shampoo,Sed sagittis.,232.83,8,123
+130,Basic Toaster,Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,413.4,8,28
+131,Eco Rug,Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis.,410.47,1,43
+132,Premium Blender,Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh.,366.57,5,140
+133,Deluxe Puzzle Set,Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,343.3,5,151
+134,Basic Face Cream,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",376.33,9,1
+135,Premium Laptop,Aliquam non mauris. Morbi non lectus.,24.49,3,32
+136,Compact Dollhouse,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",15.62,3,50
+137,Deluxe Hiking Boots,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",400.39,2,150
+138,Compact Portable Stove,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.",420.61,10,32
+139,Eco Building Blocks,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",385.49,1,169
+140,Basic Smartphone,"Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",11.99,4,27
+141,Compact Scarf,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,397.51,9,33
+142,Deluxe Toaster,Praesent id massa id nisl venenatis lacinia.,38.95,6,86
+143,Premium Air Fryer,"Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",392.53,6,10
+144,Eco Self-Help Guide,"Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",393.04,2,62
+145,Basic Air Fryer,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",14.41,9,133
+146,Deluxe Laptop,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",140.16,4,128
+147,Basic Tennis Racket,"Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",351.91,1,176
+148,Premium Throw Pillow,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",257.88,4,61
+149,Basic Bluetooth Speaker,Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,226.79,10,186
+150,Eco Hair Dryer,Proin risus. Praesent lectus.,282.56,3,97
+151,Eco Coffee Maker,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",140.74,2,99
+152,Deluxe Sci-Fi Epic,Nullam varius. Nulla facilisi.,189.31,6,12
+153,Compact Mystery Novel,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim.,339.52,3,124
+154,Deluxe Mystery Novel,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",416.98,2,193
+155,Basic Wireless Mouse,"Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",255.11,2,182
+156,Eco T-Shirt,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.,184.28,4,108
+157,Deluxe Yoga Mat,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,446.36,10,10
+158,Deluxe Coffee Maker,"Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",254.95,5,132
+159,Compact Jacket,Morbi a ipsum.,79.96,8,7
+160,Deluxe Wireless Mouse,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,309.21,4,22
+161,Compact Laptop,In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna.,410.4,3,144
+162,Basic Sci-Fi Epic,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",482.22,3,88
+163,Compact Jeans,"Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",291.58,9,182
+164,Basic Candle Holder,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",324.09,6,168
+165,Premium Air Fryer,"Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",43.15,3,160
+166,Basic Mystery Novel,"Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",404.8,6,146
+167,Basic T-Shirt,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",355.05,3,181
+168,Deluxe Jeans,Sed accumsan felis.,66.75,1,43
+169,Eco Candle Holder,Proin risus.,131.28,9,155
+170,Premium Sunglasses,"Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",425.88,5,85
+171,Premium Cookbook,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",45.98,5,55
+172,Compact Belt,Nulla tempus.,135.34,7,19
+173,Basic Shampoo,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",31.23,2,136
+174,Premium Vase,Donec ut mauris eget massa tempor convallis.,355.32,8,33
+175,Eco Smartphone,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus.,461.56,10,197
+176,Compact Self-Help Guide,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.",20.67,5,154
+177,Deluxe Shampoo,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.",53.65,6,60
+178,Deluxe Basketball,Duis consequat dui nec nisi volutpat eleifend.,318.3,10,52
+179,Deluxe Shampoo,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",30.39,1,71
+180,Deluxe Self-Help Guide,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.",164.22,2,76
+181,Deluxe Cookbook,Mauris sit amet eros.,44.4,10,29
+182,Basic Basketball,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",242.44,7,30
+183,Eco Sleeping Bag,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",391.22,5,7
+184,Basic Remote Car,Etiam justo.,265.8,3,22
+185,Premium T-Shirt,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,54.06,6,17
+186,Compact Bluetooth Speaker,"Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",350.04,8,140
+187,Basic Bluetooth Speaker,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.",160.58,9,26
+188,Premium Sneakers,Morbi a ipsum. Integer a nibh.,492.04,8,157
+189,Premium Childrens Book,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis.",403.93,4,183
+190,Deluxe Nail Kit,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",139.69,10,112
+191,Compact Throw Pillow,Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,367.26,8,143
+192,Deluxe Air Fryer,In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,162,9,83
+193,Premium Yoga Mat,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",421.95,2,187
+194,Eco Sci-Fi Epic,Nulla nisl. Nunc nisl.,347.73,7,65
+195,Basic Sci-Fi Epic,Etiam vel augue. Vestibulum rutrum rutrum neque.,487.94,9,55
+196,Compact Mystery Novel,Phasellus sit amet erat. Nulla tempus.,325.96,9,45
+197,Deluxe Yoga Mat,Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.,428.89,7,192
+198,Premium Camping Tent,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",400.49,10,147
+199,Deluxe Mystery Novel,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",296,2,186
+200,Eco Basketball,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo.",95.63,5,81
