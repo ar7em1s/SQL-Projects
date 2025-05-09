@@ -1,0 +1,301 @@
+table_id,capacity,location
+1,5,Balcony
+2,5,Main Room
+3,7,Balcony
+4,4,Patio
+5,3,Main Room
+6,6,Main Room
+7,9,Main Room
+8,5,Patio
+9,9,Balcony
+10,8,Patio
+11,5,Main Room
+12,10,Patio
+13,3,Balcony
+14,4,Main Room
+15,6,Balcony
+16,5,Patio
+17,8,Balcony
+18,7,Balcony
+19,10,Main Room
+20,10,Main Room
+21,2,Patio
+22,4,Patio
+23,8,Balcony
+24,2,Balcony
+25,7,Main Room
+26,9,Main Room
+27,7,Patio
+28,8,Main Room
+29,10,Patio
+30,7,Balcony
+31,8,Patio
+32,9,Balcony
+33,4,Main Room
+34,2,Balcony
+35,10,Main Room
+36,9,Patio
+37,7,Patio
+38,3,Main Room
+39,8,Patio
+40,9,Balcony
+41,8,Patio
+42,2,Patio
+43,3,Main Room
+44,10,Balcony
+45,3,Main Room
+46,5,Main Room
+47,4,Balcony
+48,4,Balcony
+49,6,Patio
+50,7,Balcony
+51,5,Patio
+52,2,Patio
+53,6,Balcony
+54,4,Patio
+55,10,Patio
+56,3,Balcony
+57,9,Balcony
+58,10,Patio
+59,7,Patio
+60,5,Main Room
+61,5,Main Room
+62,2,Patio
+63,10,Balcony
+64,7,Patio
+65,6,Patio
+66,7,Balcony
+67,4,Balcony
+68,10,Balcony
+69,5,Balcony
+70,10,Balcony
+71,4,Patio
+72,3,Balcony
+73,9,Balcony
+74,4,Main Room
+75,7,Main Room
+76,8,Balcony
+77,9,Main Room
+78,9,Patio
+79,3,Patio
+80,8,Patio
+81,5,Main Room
+82,3,Balcony
+83,10,Patio
+84,4,Main Room
+85,2,Patio
+86,9,Balcony
+87,3,Patio
+88,2,Patio
+89,6,Patio
+90,7,Patio
+91,3,Patio
+92,6,Patio
+93,3,Main Room
+94,5,Patio
+95,2,Main Room
+96,5,Balcony
+97,3,Patio
+98,2,Patio
+99,8,Main Room
+100,6,Main Room
+101,9,Patio
+102,6,Main Room
+103,6,Main Room
+104,3,Main Room
+105,10,Main Room
+106,7,Main Room
+107,8,Balcony
+108,8,Patio
+109,10,Patio
+110,3,Patio
+111,8,Main Room
+112,3,Balcony
+113,4,Balcony
+114,6,Balcony
+115,2,Main Room
+116,3,Patio
+117,4,Balcony
+118,9,Patio
+119,9,Balcony
+120,6,Main Room
+121,3,Main Room
+122,4,Main Room
+123,10,Balcony
+124,10,Main Room
+125,8,Main Room
+126,4,Patio
+127,9,Main Room
+128,8,Patio
+129,10,Balcony
+130,6,Patio
+131,4,Balcony
+132,8,Main Room
+133,2,Patio
+134,7,Patio
+135,5,Balcony
+136,9,Patio
+137,10,Patio
+138,7,Patio
+139,6,Main Room
+140,4,Main Room
+141,5,Main Room
+142,2,Balcony
+143,3,Main Room
+144,7,Patio
+145,9,Balcony
+146,9,Patio
+147,5,Patio
+148,6,Balcony
+149,7,Main Room
+150,4,Patio
+151,7,Main Room
+152,4,Patio
+153,6,Main Room
+154,9,Main Room
+155,4,Balcony
+156,6,Patio
+157,8,Balcony
+158,9,Main Room
+159,9,Main Room
+160,4,Balcony
+161,7,Balcony
+162,9,Main Room
+163,3,Main Room
+164,3,Patio
+165,3,Main Room
+166,9,Patio
+167,8,Patio
+168,6,Balcony
+169,2,Patio
+170,5,Patio
+171,7,Main Room
+172,9,Patio
+173,3,Patio
+174,4,Balcony
+175,2,Patio
+176,6,Balcony
+177,8,Balcony
+178,2,Patio
+179,5,Balcony
+180,3,Main Room
+181,7,Main Room
+182,9,Patio
+183,7,Main Room
+184,5,Patio
+185,7,Balcony
+186,5,Main Room
+187,6,Main Room
+188,2,Main Room
+189,2,Main Room
+190,7,Patio
+191,10,Patio
+192,10,Patio
+193,2,Main Room
+194,10,Balcony
+195,4,Balcony
+196,2,Main Room
+197,9,Patio
+198,8,Main Room
+199,3,Balcony
+200,2,Balcony
+201,5,Balcony
+202,8,Patio
+203,6,Main Room
+204,9,Patio
+205,8,Main Room
+206,10,Balcony
+207,4,Patio
+208,8,Patio
+209,9,Patio
+210,3,Main Room
+211,10,Main Room
+212,9,Patio
+213,4,Main Room
+214,7,Balcony
+215,8,Main Room
+216,8,Main Room
+217,6,Balcony
+218,5,Balcony
+219,6,Main Room
+220,5,Main Room
+221,5,Patio
+222,7,Patio
+223,10,Balcony
+224,3,Main Room
+225,9,Patio
+226,3,Balcony
+227,5,Balcony
+228,9,Main Room
+229,3,Patio
+230,10,Main Room
+231,3,Balcony
+232,2,Patio
+233,7,Patio
+234,3,Patio
+235,4,Main Room
+236,8,Main Room
+237,9,Patio
+238,8,Patio
+239,5,Patio
+240,4,Main Room
+241,6,Balcony
+242,3,Patio
+243,6,Patio
+244,6,Balcony
+245,10,Main Room
+246,4,Balcony
+247,2,Patio
+248,7,Patio
+249,9,Balcony
+250,8,Balcony
+251,6,Balcony
+252,8,Main Room
+253,3,Patio
+254,9,Balcony
+255,10,Patio
+256,7,Balcony
+257,10,Patio
+258,3,Main Room
+259,4,Main Room
+260,10,Patio
+261,6,Balcony
+262,5,Balcony
+263,7,Patio
+264,2,Main Room
+265,6,Main Room
+266,10,Balcony
+267,7,Balcony
+268,3,Patio
+269,6,Main Room
+270,8,Main Room
+271,2,Main Room
+272,7,Balcony
+273,6,Balcony
+274,5,Balcony
+275,9,Patio
+276,5,Patio
+277,4,Balcony
+278,2,Main Room
+279,5,Patio
+280,7,Patio
+281,4,Patio
+282,6,Main Room
+283,7,Patio
+284,6,Patio
+285,5,Main Room
+286,7,Balcony
+287,3,Main Room
+288,4,Patio
+289,4,Patio
+290,6,Main Room
+291,6,Patio
+292,10,Main Room
+293,6,Balcony
+294,8,Patio
+295,5,Balcony
+296,9,Balcony
+297,5,Main Room
+298,3,Patio
+299,8,Balcony
+300,3,Balcony
