@@ -1,0 +1,908 @@
+country,program,total_cost_USD
+Algeria,"Computer Engineering",1600
+Algeria,"Computer Science",1730
+Algeria,"Computer Engineering",1460
+Algeria,"Data Analytics",1780
+Algeria,"Information Systems",1340
+Argentina,"Data Analytics",600
+Argentina,"Computer Science",720
+Argentina,"Software Engineering",850
+Argentina,"Software Development",610
+Argentina,"Data Science",650
+Argentina,"Computer Engineering",630
+Australia,"Computer Science",43700
+Australia,"Computer Science",39900
+Australia,"Artificial Intelligence",31600
+Australia,"Computing Science",32450
+Australia,"Software Development",31600
+Australia,"Data Analytics",33250
+Australia,"Information Systems",31800
+Australia,"Artificial Intelligence",35050
+Australia,"Computer Science",33700
+Australia,Physics,32200
+Australia,"Computer Engineering",33600
+Australia,"Data Science",32850
+Australia,"Information Technology",33400
+Australia,"Computer Science",27300
+Australia,"Software Engineering",36800
+Australia,"Computer Science",35000
+Australia,"Computer Science",39200
+Australia,"Computer Science",32900
+Australia,Biotechnology,33800
+Australia,"Computer Science",42900
+Australia,"Data Science",34300
+Australia,"Computer Science",39500
+Australia,"Computer Science",32200
+Australia,"Computer Science",38600
+Australia,"Computer Science",41600
+Australia,"Computer Science",31600
+Australia,"Computer Science",38100
+Australia,"Computer Science",41100
+Australia,"Computer Science",31100
+Australia,"Computer Science",37700
+Australia,"Computer Science",40700
+Australia,"Computer Science",30700
+Australia,"Computer Science",37400
+Australia,"Computer Science",40400
+Australia,"Computer Science",30400
+Australia,"Computer Science",36500
+Australia,"Computer Science",42200
+Australia,"Computer Science",29500
+Australia,"Computer Science",36000
+Australia,"Computer Science",39000
+Australia,"Computer Science",29000
+Australia,"Computer Science",35400
+Australia,"Computer Science",38400
+Australia,"Computer Science",28400
+Australia,"Computer Science",34900
+Australia,"Computer Science",37900
+Australia,"Computer Science",27900
+Australia,"Computer Science",34300
+Australia,"Computer Science",37300
+Australia,"Computer Science",33700
+Australia,"Computer Science",46100
+Australia,"Computer Science",41400
+Australia,"Computer Science",34700
+Australia,"Computer Science",44700
+Australia,"Computer Science",41700
+Australia,"Computer Science",35600
+Australia,"Computer Science",45600
+Australia,"Computer Science",42600
+Australia,"Computer Science",36200
+Australia,"Computer Science",46200
+Australia,"Computer Science",43200
+Australia,"Computer Science",36100
+Australia,"Computer Science",40700
+Australia,"Computer Science",43100
+Australia,"Computer Science",36700
+Australia,"Computer Science",46900
+Australia,"Computer Science",43900
+Australia,"Computer Science",37600
+Australia,"Computer Science",48000
+Australia,"Computer Science",44900
+Australia,"Computer Science",37900
+Australia,Engineering,44500
+Australia,"Computer Science",48700
+Australia,"Computer Science",45400
+Australia,Chemistry,30100
+Australia,"Computer Science",35400
+Australia,"Data Science",31200
+Australia,"Computer Science",43700
+Australia,Business,37700
+Australia,"Computer Science",40700
+Australia,Chemistry,29050
+Australia,"Computer Science",44400
+Australia,"Climate Science",32300
+Australia,Physics,28000
+Australia,Mathematics,30050
+Australia,"Computer Science",34400
+Austria,"Software Development",3310
+Austria,"Social Sciences",3110
+Austria,"Software Engineering",3460
+Austria,"Mechanical Engineering",3260
+Austria,"Artificial Intelligence",3210
+Austria,"Data Analytics",3310
+Austria,Mechatronics,3290
+Austria,"Data Science",3230
+Austria,"Industrial Engineering",3210
+Bahrain,"Software Development",7830
+Bahrain,"Data Science",10350
+Bahrain,"Data Engineering",8810
+Bahrain,"Information Technology",9380
+Bahrain,"Software Engineering",8430
+Bangladesh,"Software Engineering",2470
+Bangladesh,"Computer Engineering",2760
+Bangladesh,"Computer Science",3050
+Bangladesh,"Artificial Intelligence",2700
+Bangladesh,"Software Development",2580
+Belgium,"Artificial Intelligence",5730
+Belgium,"Biomedical Sciences",5230
+Belgium,"Computer Engineering",5180
+Belgium,"Data Science",5300
+Belgium,"Artificial Intelligence",5130
+Belgium,"Data Engineering",5260
+Belgium,"Computer Science",5330
+Belgium,"Computer Science",5480
+Belgium,Robotics,5480
+Brazil,"Computer Science",1160
+Brazil,"Data Science",870
+Brazil,"Computer Science",1090
+Brazil,"Information Systems",9040
+Brazil,"Computer Engineering",940
+Brazil,"Data Science",890
+Brazil,"Computer Engineering",840
+Brazil,"Information Technology",890
+Bulgaria,"Artificial Intelligence",4010
+Bulgaria,"Computer Science",3630
+Bulgaria,"Computer Engineering",3840
+Bulgaria,"Information Systems",4310
+Bulgaria,"Data Science",3960
+Canada,"Computer Science",24235
+Canada,"Computer Science",26935
+Canada,"Computer Science",32935
+Canada,"Computer Science",23135
+Canada,"Computer Science",33535
+Canada,"Computer Science",23485
+Canada,"Computer Science",34185
+Canada,"Computer Science",23835
+Canada,"Computer Science",34835
+Canada,"Computer Science",35535
+Canada,"Computer Science",24635
+Canada,"Computer Science",36235
+Canada,"Computer Science",25135
+Canada,"Computer Science",37035
+Canada,"Data Analytics",26635
+Canada,"Computer Science",22835
+Canada,"Computer Science",37535
+Canada,"Computer Science",40035
+Canada,"Computer Science",26735
+Canada,"Computer Science",39335
+Canada,"Computer Science",26235
+Canada,"Computer Science",38585
+Canada,"Computer Science",25885
+Canada,"Computer Science",37935
+Canada,"Computer Science",25535
+Canada,"Computer Science",40235
+Canada,"Computer Science",28035
+Canada,"Computer Science",47835
+Canada,"Computer Science",41735
+Canada,"Computer Science",28335
+Canada,"Computer Science",43035
+Canada,"Computer Science",29135
+Canada,"Computer Science",43835
+Canada,"Computer Science",30635
+Canada,"Computer Science",46535
+Canada,"Computer Science",25335
+Canada,"Computer Science",31135
+Canada,"Artificial Intelligence",42285
+Canada,"Computer Engineering",22485
+Canada,"Computer Science",21885
+Canada,"Software Systems",27535
+Canada,"Computer Science",28885
+Canada,"Artificial Intelligence",23535
+Canada,"Computer Engineering",30335
+Canada,"Data Science",30835
+Canada,"Computer Science",32035
+Canada,"Software Engineering",34835
+Canada,"Business Analytics",47685
+Canada,"Environmental Science",44585
+Canada,"Computer Science",40385
+Canada,"Computer Science",22485
+Canada,Mathematics,37185
+Canada,"Data Science",39085
+Canada,Engineering,37985
+Canada,Physics,35885
+Canada,Psychology,34035
+Canada,Mathematics,37085
+Canada,"Data Science",34885
+Canada,"Computer Science",25135
+Canada,"Quantum Computing",23935
+Canada,"Political Science",31335
+Canada,"Business Analytics",41235
+Canada,"Software Engineering",28935
+Canada,"Computer Science",32285
+Canada,"Computer Science",20585
+Canada,"Computer Science",28585
+Canada,"Computer Science",20935
+Canada,"Computer Science",29235
+Canada,"Computer Science",21235
+Canada,"Computer Science",31785
+Canada,"Computer Science",22285
+Canada,"Computer Science",31135
+Canada,"Computer Science",21935
+Canada,"Computer Science",30485
+Canada,"Computer Science",21585
+Canada,"Computer Science",29835
+China,"Computer Science",10240
+China,"Artificial Intelligence",9540
+China,"Computer Engineering",10240
+China,"Software Engineering",9040
+China,"Data Science",9790
+China,"Artificial Intelligence",9460
+China,"Computer Engineering",8590
+China,"Information Technology",8240
+China,"Computer Science",7920
+China,"Software Engineering",7490
+China,"Data Science",7260
+China,"Computer Engineering",7040
+Colombia,"Information Systems",3970
+Colombia,"Data Science",4140
+Colombia,"Computer Engineering",4460
+Colombia,"Information Technology",3880
+Colombia,"Computer Science",4730
+Colombia,"Software Engineering",4280
+Croatia,"Data Engineering",4680
+Croatia,"Information Systems",4360
+Croatia,"Computer Science",4030
+Croatia,"Information Technology",4450
+Croatia,"Software Engineering",4930
+Croatia,"Software Development",4270
+Cyprus,"Software Engineering",8880
+Cyprus,"Artificial Intelligence",9300
+Cyprus,"Software Development",8650
+Cyprus,"Data Science",8450
+Cyprus,"Data Science",9200
+Cyprus,"Computer Engineering",8630
+"Czech Republic",Medicine,10950
+Denmark,Physics,2750
+Denmark,Bioinformatics,1870
+Denmark,"Quantum Engineering",2650
+Denmark,"Software Engineering",2150
+Denmark,"Computer Science",11010
+Denmark,"Data Science",10510
+Denmark,"Software Engineering",10110
+Denmark,"Environmental Engineering",2100
+Denmark,Bioinformatics,2150
+Denmark,"Engineering Management",2050
+Denmark,"Computer Science",1470
+Denmark,"Environmental Science",2250
+Denmark,Biotechnology,2350
+Denmark,"Data Analytics",2450
+Denmark,"Energy Engineering",2250
+"Dominican Republic","Information Technology",6200
+"Dominican Republic","Computer Science",5680
+"Dominican Republic","Computer Engineering",6750
+"Dominican Republic","Information Systems",5460
+"Dominican Republic","Computer Science",5150
+Ecuador,"Software Development",8550
+Ecuador,"Information Systems",7920
+Ecuador,"Computer Science",9300
+Ecuador,"Artificial Intelligence",7500
+Ecuador,"Information Technology",7180
+Egypt,"Information Systems",2470
+Egypt,"Computer Engineering",3050
+Egypt,"Computer Engineering",20730
+Egypt,"Data Analytics",2360
+Egypt,"Data Science",2920
+Egypt,"Software Engineering",2700
+Egypt,"Computer Science",2580
+"El Salvador","Software Development",6310
+"El Salvador","Computer Engineering",4890
+"El Salvador","Information Systems",5530
+"El Salvador","Data Science",5210
+"El Salvador","Computer Engineering",5760
+Finland,"Industrial Management",1800
+Finland,"Software Engineering",1900
+Finland,"Forestry Sciences",1650
+Finland,Bioinformatics,1850
+Finland,"Environmental Science",1700
+Finland,"Computer Science",1800
+Finland,"Industrial Engineering",1700
+Finland,"Computer Engineering",2000
+Finland,"Data Science",2200
+Finland,"Data Science",1750
+Finland,"Computer Science",1620
+France,"Data Engineering",6249
+France,"Computer Science",17849
+France,"Software Engineering",5699
+France,"Data Science",6399
+France,"Artificial Intelligence",6049
+France,"Computer Engineering",5549
+France,"Information Systems",5799
+France,"Software Development",5299
+France,Cybersecurity,5949
+France,"Digital Systems",5449
+France,"Data Engineering",5599
+France,"Data Science",6149
+France,"Data Analytics",5949
+France,"Computer Science",5949
+France,"Data Science",6349
+France,"Computer Science",6099
+France,"Data Analytics",6249
+France,"Computer Engineering",6349
+France,"Computer Science",6349
+France,"Data Analytics",7249
+France,"Artificial Intelligence",6149
+France,"Computer Science",7249
+France,"Computer Science",5849
+France,"Data Science",6349
+France,"Data Analytics",6099
+France,"Information Systems",6249
+France,"International Relations",6649
+Germany,"Software Engineering",1925
+Germany,"Mechanical Engineering",2210
+Germany,"Data Engineering",2075
+Germany,"Computer Science",2310
+Germany,"Computer Engineering",1825
+Germany,Mathematics,2310
+Germany,"Computer Science",1875
+Germany,"Mechanical Engineering",2225
+Germany,"Mechanical Engineering",1810
+Germany,"Computer Science",1960
+Germany,Physics,2110
+Germany,"Computer Science",2010
+Germany,"Artificial Intelligence",1925
+Germany,"Mechanical Engineering",2110
+Germany,"Information Systems",1825
+Germany,"Software Systems",1775
+Germany,"Data Science",1675
+Germany,Engineering,2110
+Germany,"International Business",1525
+Germany,"Digital Engineering",1875
+Germany,"Robotics & AI",1925
+Germany,Engineering,2110
+Germany,Physics,2010
+Germany,Mathematics,2210
+Germany,"Electrical Engineering",2210
+Germany,"Molecular Biology",2025
+Germany,"Computer Science",1910
+Germany,Photonics,1860
+Germany,"Materials Science",2010
+Germany,Robotics,1910
+Germany,"Computer Engineering",1960
+Germany,Mechatronics,2010
+Germany,"Aerospace Engineering",2110
+Ghana,"Data Analytics",5170
+Ghana,"Data Science",4050
+Ghana,"Software Development",4370
+Ghana,"Information Technology",4600
+Ghana,"Software Engineering",4820
+Greece,"Data Science",1350
+Greece,"Electronic Engineering",1150
+Greece,"Information Systems",1200
+Greece,"Computer Engineering",1150
+Greece,"Digital Innovation",1120
+Greece,"Data Analytics",1180
+Greece,Cybersecurity,1100
+Greece,"Information Technology",1250
+Greece,"Computer Engineering",1080
+Greece,"Digital Systems",1100
+Greece,"Electrical Engineering",1350
+Greece,"Computer Engineering",1200
+Greece,"Information Systems",1080
+Greece,"Software Engineering",3570
+Greece,Electronics,1150
+Greece,"Digital Systems",1100
+Greece,"Computer Science",1180
+"Hong Kong",Finance,24220
+Hungary,"Computer Science",6970
+Hungary,"Information Systems",6000
+Hungary,"Data Analytics",6280
+Hungary,"Computer Engineering",6190
+Hungary,Robotics,6110
+Hungary,"Software Development",6440
+Hungary,Mechatronics,6790
+Hungary,"Software Engineering",7590
+Iceland,Robotics,2190
+Iceland,"Digital Design",2040
+Iceland,"Computer Science",2240
+Iceland,"Data Analytics",1940
+Iceland,"Data Systems",1940
+Iceland,"Digital Business",1990
+India,"Computer Science",3500
+India,"Computer Science",2330
+India,"Artificial Intelligence",2700
+India,"Computer Engineering",2630
+India,"Software Engineering",2460
+India,"Data Analytics",2540
+India,"Data Science",2780
+India,"Artificial Intelligence",2620
+Indonesia,"Computer Science",3820
+Indonesia,"Computer Engineering",5200
+Indonesia,"Information Systems",5130
+Indonesia,"Data Science",4650
+Indonesia,"Artificial Intelligence",4140
+Indonesia,"Software Engineering",4480
+Indonesia,"Information Technology",3600
+Indonesia,"Information Systems",5800
+Iran,"Data Analytics",3650
+Iran,"Artificial Intelligence",3310
+Iran,"Data Analytics",3830
+Iran,"Software Development",3430
+Iran,"Information Systems",3580
+Ireland,"Data Analytics",15500
+Ireland,"Computer Science",19000
+Ireland,"Computer Science",21500
+Ireland,"Data Analytics",17900
+Ireland,"Computer Science",17300
+Ireland,"Computer Science",27700
+Ireland,"Data Science",16750
+Ireland,"Computer Science",16300
+Ireland,"Data Science",15750
+Ireland,"Data Analytics",31300
+Israel,"Computer Science",14150
+Italy,"Software Engineering",5420
+Italy,"Information Technology",5370
+Italy,"Data Analytics",6020
+Italy,"Information Systems",5370
+Italy,"Software Development",4970
+Italy,"Computer Engineering",4970
+Italy,Cybersecurity,5320
+Italy,"Artificial Intelligence",5120
+Italy,"Data Engineering",5320
+Italy,"Software Engineering",4820
+Italy,"Computer Engineering",5520
+Italy,Design,6070
+Italy,"Software Engineering",5120
+Italy,Robotics,5420
+Italy,"Data Engineering",6020
+Italy,"Artificial Intelligence",5520
+Italy,"Computer Science",4820
+Japan,"Artificial Intelligence",10970
+Japan,"Computer Engineering",9070
+Japan,"Data Science",9620
+Japan,"Software Engineering",8570
+Japan,"Computer Science",9570
+Japan,"Information Systems",8770
+Japan,"Information Technology",9120
+Japan,Engineering,8670
+Japan,"Information Science",11170
+Japan,"Software Engineering",9820
+Japan,"Information Science",9520
+Japan,"Computer Science",10370
+Kuwait,"Artificial Intelligence",15540
+Kuwait,"Software Engineering",14490
+Kuwait,"Data Science",5140
+Kuwait,"Data Science",15020
+Kuwait,"Data Engineering",16590
+Lebanon,"Computer Science",16070
+Lebanon,"Data Science",21250
+Lebanon,"Software Engineering",17100
+Lebanon,"Data Engineering",19150
+Lebanon,"Computer Science",3050
+Luxembourg,"Computer Science",2400
+Luxembourg,"Data Analytics",2600
+Luxembourg,"Data Engineering",2500
+Luxembourg,"Artificial Intelligence",2700
+Luxembourg,"Information Technology",2450
+Luxembourg,"Digital Innovation",2400
+Luxembourg,"Business Analytics",2350
+Malaysia,"Information Systems",8470
+Malaysia,"Computer Science",7720
+Malaysia,"Artificial Intelligence",8140
+Malaysia,"Computer Science",9520
+Malaysia,"Software Engineering",8420
+Malaysia,"Computer Science",7900
+Malaysia,"Data Analytics",8920
+Malaysia,"Computer Science",5710
+Malaysia,"Data Analytics",8050
+Malaysia,"Data Analytics",8770
+Mexico,"Computer Engineering",4340
+Mexico,"Computer Engineering",1860
+Mexico,"Computer Engineering",10890
+Mexico,"Computer Engineering",1840
+Mexico,"Data Analytics",11920
+Mexico,"Data Science",13140
+Mexico,"Computer Systems",3620
+Mexico,"Software Engineering",1840
+Mexico,"Information Technology",10490
+Morocco,"Software Engineering",2480
+Morocco,"Information Systems",2620
+Morocco,"Artificial Intelligence",2700
+Morocco,"Data Analytics",2370
+Morocco,"Computer Engineering",2870
+Morocco,"Computer Science",2260
+Netherlands,Robotics,6900
+Netherlands,"Data Science",13250
+Netherlands,"Data Science",15891
+Netherlands,"Data Science",15841
+Netherlands,"Artificial Intelligence",18200
+Netherlands,"Computer Science",17450
+Netherlands,"Artificial Intelligence",17191
+Netherlands,Bioinformatics,16291
+Netherlands,Economics,13400
+Netherlands,Bioinformatics,16550
+Netherlands,"Software Science",16200
+Netherlands,"Artificial Intelligence",16641
+Netherlands,"Information Systems",12950
+Netherlands,"Artificial Intelligence",12850
+Netherlands,"Computing Science",15991
+Netherlands,"Game Technology",17100
+Netherlands,"Computer Science",17491
+Netherlands,"Computer Engineering",13250
+Netherlands,"Computing Science",16500
+Netherlands,"Business Analytics",16591
+Netherlands,"Business Analytics",17400
+"New Zealand","Data Analytics",31580
+"New Zealand","Computer Engineering",29230
+"New Zealand","Computer Science",34130
+"New Zealand","Marine Biology",30545
+"New Zealand","Environmental Computing",29830
+"New Zealand","Environmental Science",30280
+"New Zealand","Data Analytics",32030
+"New Zealand","Information Systems",30830
+"New Zealand","Mechanical Engineering",32880
+Nigeria,"Computer Engineering",3380
+Norway,Biotechnology,1875
+Norway,"Systems Engineering",1775
+Norway,"Renewable Energy",1825
+Norway,"Environmental Science",1985
+Norway,"Information Security",1775
+Norway,"Marine Biology",1825
+Norway,"Petroleum Engineering",2075
+Norway,"Marine Technology",1975
+Norway,"Artificial Intelligence",2175
+Norway,Robotics,2075
+Norway,"Computer Science",2375
+Panama,"Computer Science",7400
+Panama,"Computer Science",6850
+Panama,"Data Analytics",7080
+Panama,"Data Analytics",7750
+Panama,"Artificial Intelligence",8600
+Peru,"Data Analytics",9370
+Peru,"Data Engineering",7210
+Peru,"Software Engineering",7770
+Peru,"Information Systems",7920
+Peru,"Software Development",8250
+Peru,"Data Analytics",7530
+Poland,"Computer Engineering",3260
+Poland,"Software Engineering",3380
+Poland,Cybersecurity,3500
+Poland,"Artificial Intelligence",3630
+Poland,"Computer Science",4880
+Poland,"Computer Science",3760
+Poland,"Software Development",3880
+Poland,"Data Science",4130
+Portugal,Computing,6375
+Portugal,Architecture,4870
+Portugal,"Computer Engineering",6625
+Portugal,"Software Engineering",7675
+Portugal,"Computer Science",7225
+Portugal,"Information Systems",6855
+Portugal,"Computer Engineering",8275
+Portugal,"Data Science",7075
+Portugal,Robotics,7775
+Romania,"Computer Engineering",2800
+Romania,"Computer Engineering",3420
+Romania,"Information Systems",2920
+Romania,"Software Engineering",3250
+Romania,"Data Science",3070
+Romania,"Software Development",2970
+Romania,"Data Analytics",2690
+Russia,"Information Technology",5110
+Russia,Mathematics,5760
+Russia,"Software Engineering",5510
+Russia,"Data Science",6110
+Russia,"Applied Mathematics",5070
+Russia,"Computer Science",5330
+Russia,"Data Analytics",5660
+Russia,"Artificial Intelligence",5440
+Russia,"Computer Science",6660
+"Saudi Arabia","Computer Science",6280
+"Saudi Arabia","Information Systems",5800
+"Saudi Arabia","Software Development",5850
+"Saudi Arabia","Computer Engineering",5680
+"Saudi Arabia","Data Science",6800
+"Saudi Arabia","Software Development",6000
+"Saudi Arabia","Data Engineering",6550
+"Saudi Arabia","Information Technology",5950
+"Saudi Arabia","Computer Science",6200
+"Saudi Arabia","Computer Science",9450
+Serbia,"Information Systems",3560
+Serbia,"Data Engineering",3090
+Serbia,"Computer Engineering",3210
+Serbia,"Software Engineering",3330
+Serbia,"Computer Science",2980
+Singapore,"Digital Systems & AI",40290
+Singapore,"Software Engineering",36890
+Singapore,"Computing & Innovation",36590
+Singapore,"Artificial Intelligence",40990
+Singapore,Robotics,38940
+Singapore,"Technology & Innovation",36190
+Singapore,"Data Science & AI",37290
+Singapore,"Computer Engineering",40890
+Singapore,"Artificial Intelligence",37990
+Singapore,"Software Engineering",32190
+Singapore,Finance,37790
+Singapore,"Computer Science & Design",33590
+Singapore,"Information Systems",34190
+Singapore,"Computer Science",34890
+Singapore,"Data Science",11390
+Singapore,"Artificial Intelligence",44090
+Singapore,"Computer Science",41990
+Singapore,"Data Analytics",40040
+Slovenia,"Computer Engineering",5530
+Slovenia,"Information Technology",4950
+Slovenia,"Computer Science",5030
+Slovenia,"Data Science",5180
+Slovenia,"Information Systems",4810
+"South Africa","Computer Science",7040
+"South Korea","Digital Media",8730
+"South Korea",Business,7230
+"South Korea","Software Engineering",7070
+"South Korea","Computer Engineering",6820
+"South Korea","Software Engineering",8240
+"South Korea","Data Science",8690
+"South Korea","Computer Engineering",8130
+"South Korea","Robotics Engineering",8390
+"South Korea","Information Systems",7440
+"South Korea","Computer Science",7290
+"South Korea","Artificial Intelligence",8810
+"South Korea","Computer Science",9040
+"South Korea","Computer Science",8230
+"South Korea","Data Analytics",6940
+"South Korea","Information Technology",6710
+"South Korea","Computer Science",6590
+"South Korea","AI Engineering",7570
+"South Korea","Software Systems",6540
+"South Korea","Computer Networks",6210
+"South Korea","Information Security",6330
+"South Korea","Computer Systems",7440
+"South Korea","Computer Engineering",7760
+"South Korea","Data Science",6490
+Spain,"Data Science",5630
+Spain,Robotics,4580
+Spain,"Data Science",4530
+Spain,"Artificial Intelligence",4380
+Spain,Robotics,4380
+Spain,"Information Systems",4530
+Spain,"Information Systems",4830
+Spain,"Computer Engineering",4580
+Spain,"Artificial Intelligence",4330
+Spain,"Computer Science",4330
+Spain,"Software Engineering",5430
+Spain,Architecture,4410
+Spain,"Information Technology",5080
+Spain,"Computer Science",5430
+Spain,"Artificial Intelligence",5630
+Spain,"Computer Science",5080
+Spain,"Data Science",4830
+Sweden,"Information Systems",1620
+Sweden,"Sustainable Technology",1710
+Sweden,"Engineering Physics",1970
+Sweden,Neuroscience,1510
+Sweden,Mathematics,1770
+Sweden,"Sustainable Energy",1820
+Sweden,Physics,1870
+Sweden,"Computer Science",1720
+Sweden,"Artificial Intelligence",1670
+Sweden,"Software Engineering",1570
+Switzerland,Physics,4848
+Switzerland,"Computer Science",4140
+Switzerland,"Data Engineering",4448
+Switzerland,"Pharmaceutical Sciences",4588
+Switzerland,"Data Analytics",4240
+Switzerland,"Data Science",4340
+Switzerland,"Data Analytics",4440
+Switzerland,"Data Science",4540
+Switzerland,"Data Science",4640
+Switzerland,"Computer Science",4740
+Switzerland,"Computer Science",4840
+Switzerland,"Computer Science",4648
+Switzerland,"Data Science",4668
+Switzerland,"Software Engineering",4408
+Switzerland,"Business Informatics",4328
+Switzerland,"Artificial Intelligence",4248
+Switzerland,"Computer Engineering",4068
+Switzerland,"Information Systems",4208
+Switzerland,"Computational Science",4528
+Switzerland,"Digital Innovation",4268
+Taiwan,"Electronics Engineering",6490
+Thailand,"Computer Science",4690
+Thailand,"Computer Engineering",10730
+Thailand,"Information Technology",11680
+Thailand,"Data Science",12730
+Thailand,"Data Engineering",9680
+Thailand,"Software Engineering",15930
+Thailand,"Software Engineering",10210
+Thailand,"Computer Engineering",9200
+Tunisia,"Artificial Intelligence",1860
+Tunisia,"Computer Systems",1740
+Tunisia,"Computer Science",2010
+Tunisia,"Data Science",2030
+Tunisia,"Artificial Intelligence",1610
+Tunisia,"Computer Engineering",1820
+Turkey,"Computer Engineering",2690
+Turkey,"Computer Engineering",2650
+Turkey,"Artificial Intelligence",1920
+Turkey,"Software Engineering",2140
+Turkey,"Data Science",2410
+Turkey,"Data Engineering",2240
+Turkey,"Electronics Engineering",2290
+Turkey,"Computer Science",2070
+Turkey,"Information Systems",1940
+UAE,"Computer Science",27920
+UAE,"Data Science",25770
+UAE,Robotics,29020
+UAE,"Data Analytics",27120
+UAE,"Computer Science",31770
+UAE,"Computer Engineering",23720
+UAE,"Information Technology",22670
+UAE,"Information Systems",24820
+UK,"Artificial Intelligence",47885
+UK,"Data Analytics",37785
+UK,"Computer Engineering",45085
+UK,"Data Engineering",36085
+UK,"Software Engineering",42685
+UK,"Data Science",40385
+UK,"Software Engineering",37185
+UK,"Data Analytics",38485
+UK,"Data Engineering",36235
+UK,"Computer Engineering",37185
+UK,"Computer Science",28090
+UK,"Computer Science",32290
+UK,"Computer Science",31790
+UK,"Computer Science",31440
+UK,"Computer Science",30990
+UK,"Computer Science",30640
+UK,"Computer Science",30390
+UK,"Computer Science",29990
+UK,"Computer Science",29640
+UK,"Computer Science",29540
+UK,"Computer Science",29290
+UK,"Computer Science",28790
+UK,"Computer Science",28740
+UK,"Computer Science",28340
+UK,"Computer Science",32740
+UK,"Computer Science",27690
+UK,"Computer Science",27240
+UK,"Computer Science",26990
+UK,"Computer Science",26740
+UK,"Computer Science",26290
+UK,"Computer Science",26890
+UK,"Computer Science",26690
+UK,"Computer Science",25890
+UK,"Computer Science",25190
+UK,"Computer Science",24840
+UK,"Computer Science",24790
+UK,"Computer Science",24140
+UK,"Computer Science",23790
+UK,"Software Development",33285
+UK,"Data Science",44285
+UK,Mathematics,33585
+UK,"Biomedical Sciences",32685
+UK,Physics,34185
+UK,"Computer Science",35885
+UK,Economics,34485
+UK,"Computer Science",42385
+UK,"Software Engineering",30735
+UK,"Data Science",39085
+UK,"Artificial Intelligence",30035
+UK,"Computer Engineering",31735
+UK,Cybersecurity,34585
+UK,"Computer Science",31035
+UK,"Computer Science",31940
+UK,"Computing Systems",29535
+UK,"Data Analytics",32885
+UK,"Computer Science",41590
+UK,"Computer Science",41040
+UK,"Computer Science",40990
+UK,"Computer Science",40190
+UK,"Computer Science",38790
+UK,"Computer Science",35390
+UK,"Computer Science",34490
+UK,"Computer Science",34290
+UK,"Computer Science",33790
+UK,"Computer Science",33490
+UK,"Computer Science",33090
+UK,"Computer Science",42685
+UK,"Data Analytics",36235
+UK,"Computer Science",42185
+UK,Engineering,37185
+UK,"Computer Science",35385
+UK,"Computer Science",36085
+UK,"Computer Science",36185
+UK,Engineering,35135
+UK,"Computer Science",39485
+UK,Chemistry,37185
+UK,"Data Science",37285
+UK,Physics,36235
+UK,"Computer Science",38385
+UK,"Data Science",38485
+UK,Engineering,37185
+UK,Chemistry,40385
+UK,"Computer Science",23640
+UK,"Computer Science",21790
+UK,"Computer Science",22390
+UK,"Computer Science",21990
+UK,"Computer Science",22690
+UK,"Computer Science",21590
+UK,"Computer Science",22440
+UK,"Computer Science",22690
+UK,"Computer Science",22890
+UK,"Data Science",45085
+UK,"Computer Science",23390
+Ukraine,"Software Engineering",4620
+Ukraine,"Data Science",4150
+Ukraine,"Data Analytics",4020
+Ukraine,"Computer Science",4270
+Ukraine,"Artificial Intelligence",4340
+Uruguay,"Computer Science",7320
+Uruguay,"Information Systems",790
+Uruguay,"Software Engineering",770
+Uruguay,"Data Science",7840
+Uruguay,"Computer Engineering",890
+USA,"Computer Science",45660
+USA,"Computer Engineering",46160
+USA,"Data Science",43060
+USA,"Computer Science",41260
+USA,"Information Technology",44160
+USA,"Data Science",57660
+USA,"Data Science",57660
+USA,"Data Science",66160
+USA,"Computer Science",51360
+USA,"Data Science",48260
+USA,"Data Analytics",50360
+USA,Robotics,59760
+USA,"Computer Science",52460
+USA,"Computer Science",54660
+USA,"Computer Science",48860
+USA,"Data Science",56960
+USA,"Computer Science",50060
+USA,"Computer Science",47760
+USA,"Software Development",53660
+USA,"Aerospace Engineering",55760
+USA,"Industrial Engineering",47160
+USA,"Chemical Engineering",44160
+USA,"Software Engineering",59160
+USA,"Computer Science",58160
+USA,"Electrical Engineering",57660
+USA,"Data Science",59060
+USA,"Machine Learning",51360
+USA,"Computer Engineering",54760
+USA,"Computer Engineering",55860
+USA,"Computer Science",42560
+USA,Biotechnology,52560
+USA,"Computer Science",48660
+USA,"Artificial Intelligence",61560
+USA,Robotics,51260
+USA,"Computer Science",55460
+USA,"Data Analytics",56060
+USA,"Artificial Intelligence",56960
+USA,"Computer Engineering",54060
+USA,"Software Engineering",54660
+USA,"Data Science",59160
+USA,"Computer Science",31160
+USA,"Computer Science",53060
+USA,"Computer Science",29960
+USA,"Computer Science",29460
+USA,"Data Science",54760
+USA,"Data Analytics",57860
+USA,"Computer Science",59260
+USA,"Data Science",61560
+USA,"Data Science",56060
+USA,Chemistry,52560
+USA,"Computer Science",30560
+USA,"Computer Science",53660
+USA,"Data Science",51260
+USA,Mathematics,48260
+USA,"Computer Science",55860
+USA,Engineering,51360
+USA,Economics,66160
+USA,Mathematics,57660
+USA,Physics,55960
+USA,"Computer Science",61760
+USA,"Computer Science",34460
+USA,"Computer Science",61060
+USA,"Computer Science",59760
+USA,"Computer Science",58260
+USA,"Computer Science",57660
+USA,"Computer Science",55960
+USA,"Computer Science",57060
+USA,"Computer Science",46860
+USA,"Computer Science",47460
+USA,"Computer Science",55360
+USA,"Computer Science",43960
+USA,"Computer Science",43460
+USA,"Artificial Intelligence",61860
+USA,"Computer Science",40760
+USA,"Computer Science",39960
+USA,"Computer Science",36860
+USA,"Computer Science",35860
+USA,"Computer Science",31560
+Uzbekistan,"Computer Science",4130
+Uzbekistan,"Data Analytics",4460
+Uzbekistan,"Computer Science",4910
+Uzbekistan,"Software Development",3790
+Uzbekistan,"Information Technology",4010
+Vietnam,"Software Engineering",4020
