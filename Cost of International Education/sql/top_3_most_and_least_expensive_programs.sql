@@ -3,10 +3,10 @@
 SELECT * FROM (
   SELECT 
     country, city, program,
-    ROUND(SUM(COALESCE(tuition_USD, 0) + 
+    SUM(COALESCE(tuition_USD, 0) + 
               COALESCE(rent_USD, 0) + 
               COALESCE(visa_Fee_USD, 0) + 
-              COALESCE(insurance_USD, 0)), 2) AS total_cost_USD,
+              COALESCE(insurance_USD, 0)) AS total_cost_USD,
     'Most Expensive' AS category
   FROM 
     edu_cost
@@ -22,10 +22,10 @@ UNION ALL
 SELECT * FROM (
   SELECT 
     country, city, program,
-    ROUND(SUM(COALESCE(tuition_USD, 0) + 
+    SUM(COALESCE(tuition_USD, 0) + 
               COALESCE(rent_USD, 0) + 
               COALESCE(visa_Fee_USD, 0) + 
-              COALESCE(insurance_USD, 0)), 2) AS total_cost_USD,
+              COALESCE(insurance_USD, 0)) AS total_cost_USD,
     'Least Expensive' AS category
   FROM 
     edu_cost
